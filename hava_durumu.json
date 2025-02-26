@@ -1,0 +1,336 @@
+{
+    "2025-02-26": [
+        {
+            "Şehir": "California",
+            "Ülke": "US",
+            "Para Birimi": "USD",
+            "Döviz Kuru (USD)": "1 USD = 1 USD",
+            "Tahminler": {
+                "2025-02-26": {
+                    "Ortalama Sıcaklık": "10°C",
+                    "Hava Durumu": "Açık hava"
+                },
+                "2025-02-27": {
+                    "Ortalama Sıcaklık": "11°C",
+                    "Hava Durumu": "Az bulutlu"
+                },
+                "2025-02-28": {
+                    "Ortalama Sıcaklık": "7°C",
+                    "Hava Durumu": "Açık hava"
+                },
+                "2025-03-01": {
+                    "Ortalama Sıcaklık": "9°C",
+                    "Hava Durumu": "Parçalı bulutlu"
+                },
+                "2025-03-02": {
+                    "Ortalama Sıcaklık": "0°C",
+                    "Hava Durumu": "Açık hava"
+                },
+                "2025-03-03": {
+                    "Ortalama Sıcaklık": "-3°C",
+                    "Hava Durumu": "Açık hava"
+                }
+            },
+            "Sorgu Saati": "13:20:50"
+        },
+        {
+            "Şehir": "Bochum",
+            "Ülke": "DE",
+            "Para Birimi": "EUR",
+            "Döviz Kuru (USD)": "1 USD = 0.9518 EUR",
+            "Tahminler": {
+                "2025-02-26": {
+                    "Ortalama Sıcaklık": "7°C",
+                    "Hava Durumu": "Kapalı hava"
+                },
+                "2025-02-27": {
+                    "Ortalama Sıcaklık": "5°C",
+                    "Hava Durumu": "light rain"
+                },
+                "2025-02-28": {
+                    "Ortalama Sıcaklık": "5°C",
+                    "Hava Durumu": "light rain"
+                },
+                "2025-03-01": {
+                    "Ortalama Sıcaklık": "5°C",
+                    "Hava Durumu": "Kapalı hava"
+                },
+                "2025-03-02": {
+                    "Ortalama Sıcaklık": "4°C",
+                    "Hava Durumu": "Kapalı hava"
+                },
+                "2025-03-03": {
+                    "Ortalama Sıcaklık": "4°C",
+                    "Hava Durumu": "Parçalı bulutlu"
+                }
+            },
+            "Sorgu Saati": "13:22:17"
+        },
+        {
+            "Şehir": "Eskişehir",
+            "Ülke": "TR",
+            "Para Birimi": "TRY",
+            "Döviz Kuru (USD)": "1 USD = 36.4643 TRY",
+            "Tahminler": {
+                "2025-02-26": {
+                    "Ortalama Sıcaklık": "4°C",
+                    "Hava Durumu": "Dağınık bulutlar"
+                },
+                "2025-02-27": {
+                    "Ortalama Sıcaklık": "5°C",
+                    "Hava Durumu": "Kapalı hava"
+                },
+                "2025-02-28": {
+                    "Ortalama Sıcaklık": "4°C",
+                    "Hava Durumu": "Kapalı hava"
+                },
+                "2025-03-01": {
+                    "Ortalama Sıcaklık": "6°C",
+                    "Hava Durumu": "Kapalı hava"
+                },
+                "2025-03-02": {
+                    "Ortalama Sıcaklık": "7°C",
+                    "Hava Durumu": "Kapalı hava"
+                },
+                "2025-03-03": {
+                    "Ortalama Sıcaklık": "4°C",
+                    "Hava Durumu": "light rain"
+                }
+            },
+            "Sorgu Saati": "13:22:30"
+        },
+        {
+            "Şehir": "Balıkesir Province",
+            "Ülke": "TR",
+            "Para Birimi": "TRY",
+            "Döviz Kuru (USD)": "1 USD = 36.4643 TRY",
+            "Tahminler": {
+                "2025-02-26": {
+                    "Ortalama Sıcaklık": "8°C",
+                    "Hava Durumu": "Parçalı bulutlu"
+                },
+                "2025-02-27": {
+                    "Ortalama Sıcaklık": "7°C",
+                    "Hava Durumu": "light rain"
+                },
+                "2025-02-28": {
+                    "Ortalama Sıcaklık": "8°C",
+                    "Hava Durumu": "light rain"
+                },
+                "2025-03-01": {
+                    "Ortalama Sıcaklık": "9°C",
+                    "Hava Durumu": "Kapalı hava"
+                },
+                "2025-03-02": {
+                    "Ortalama Sıcaklık": "8°C",
+                    "Hava Durumu": "Kapalı hava"
+                },
+                "2025-03-03": {
+                    "Ortalama Sıcaklık": "5°C",
+                    "Hava Durumu": "light rain"
+                }
+            },
+            "Sorgu Saati": "13:22:54"
+        },
+        {
+            "Şehir": "Los Angeles",
+            "Ülke": "US",
+            "Para Birimi": "USD",
+            "Döviz Kuru (USD)": "1 USD = 1 USD",
+            "Tahminler": {
+                "2025-02-26": {
+                    "Ortalama Sıcaklık": "19°C",
+                    "Hava Durumu": "Açık hava"
+                },
+                "2025-02-27": {
+                    "Ortalama Sıcaklık": "22°C",
+                    "Hava Durumu": "Açık hava"
+                },
+                "2025-02-28": {
+                    "Ortalama Sıcaklık": "20°C",
+                    "Hava Durumu": "Kapalı hava"
+                },
+                "2025-03-01": {
+                    "Ortalama Sıcaklık": "14°C",
+                    "Hava Durumu": "Açık hava"
+                },
+                "2025-03-02": {
+                    "Ortalama Sıcaklık": "14°C",
+                    "Hava Durumu": "Parçalı bulutlu"
+                },
+                "2025-03-03": {
+                    "Ortalama Sıcaklık": "14°C",
+                    "Hava Durumu": "Az bulutlu"
+                }
+            },
+            "Sorgu Saati": "13:25:42"
+        },
+        {
+            "Şehir": "Kocaeli Province",
+            "Ülke": "TR",
+            "Para Birimi": "TRY",
+            "Döviz Kuru (USD)": "1 USD = Bilinmiyor TRY",
+            "Tahminler": {
+                "2025-02-26": {
+                    "Sıcaklık": "6°C",
+                    "Hava Durumu": "scattered clouds"
+                },
+                "2025-02-27": {
+                    "Sıcaklık": "7°C",
+                    "Hava Durumu": "broken clouds"
+                },
+                "2025-02-28": {
+                    "Sıcaklık": "7°C",
+                    "Hava Durumu": "overcast clouds"
+                },
+                "2025-03-01": {
+                    "Sıcaklık": "5°C",
+                    "Hava Durumu": "broken clouds"
+                },
+                "2025-03-02": {
+                    "Sıcaklık": "5°C",
+                    "Hava Durumu": "overcast clouds"
+                },
+                "2025-03-03": {
+                    "Sıcaklık": "4°C",
+                    "Hava Durumu": "light rain"
+                }
+            },
+            "Sorgu Saati": "13:34:53"
+        },
+        {
+            "Şehir": "Eskişehir",
+            "Ülke": "TR",
+            "Para Birimi": "TRY",
+            "Döviz Kuru (USD)": "1 USD = 36.4643 TRY",
+            "Tahminler": {
+                "2025-02-26": {
+                    "Sıcaklık": "4°C",
+                    "Hava Durumu": "scattered clouds"
+                },
+                "2025-02-27": {
+                    "Sıcaklık": "5°C",
+                    "Hava Durumu": "overcast clouds"
+                },
+                "2025-02-28": {
+                    "Sıcaklık": "4°C",
+                    "Hava Durumu": "overcast clouds"
+                },
+                "2025-03-01": {
+                    "Sıcaklık": "6°C",
+                    "Hava Durumu": "overcast clouds"
+                },
+                "2025-03-02": {
+                    "Sıcaklık": "7°C",
+                    "Hava Durumu": "overcast clouds"
+                },
+                "2025-03-03": {
+                    "Sıcaklık": "4°C",
+                    "Hava Durumu": "light rain"
+                }
+            },
+            "Sorgu Saati": "13:36:04"
+        },
+        {
+            "Şehir": "Eskişehir",
+            "Ülke": "TR",
+            "Para Birimi": "TRY",
+            "Döviz Kuru (USD)": "1 USD = 36.4643 TRY",
+            "Tahminler": {
+                "2025-02-26": {
+                    "Sıcaklık": "4°C",
+                    "Hava Durumu": "scattered clouds"
+                },
+                "2025-02-27": {
+                    "Sıcaklık": "5°C",
+                    "Hava Durumu": "overcast clouds"
+                },
+                "2025-02-28": {
+                    "Sıcaklık": "4°C",
+                    "Hava Durumu": "overcast clouds"
+                },
+                "2025-03-01": {
+                    "Sıcaklık": "6°C",
+                    "Hava Durumu": "overcast clouds"
+                },
+                "2025-03-02": {
+                    "Sıcaklık": "7°C",
+                    "Hava Durumu": "overcast clouds"
+                },
+                "2025-03-03": {
+                    "Sıcaklık": "4°C",
+                    "Hava Durumu": "light rain"
+                }
+            },
+            "Sorgu Saati": "13:36:21"
+        }
+    ],
+    "26-02-2025": [
+        {
+            "Şehir": "Los Angeles",
+            "Ülke": "US",
+            "Para Birimi": "USD",
+            "Döviz Kuru (USD)": "1 USD = 1 USD",
+            "Tahminler": {
+                "2025-02-26": {
+                    "Sıcaklık": "18°C",
+                    "Hava Durumu": "overcast clouds"
+                },
+                "2025-02-27": {
+                    "Sıcaklık": "22°C",
+                    "Hava Durumu": "clear sky"
+                },
+                "2025-02-28": {
+                    "Sıcaklık": "20°C",
+                    "Hava Durumu": "overcast clouds"
+                },
+                "2025-03-01": {
+                    "Sıcaklık": "14°C",
+                    "Hava Durumu": "clear sky"
+                },
+                "2025-03-02": {
+                    "Sıcaklık": "14°C",
+                    "Hava Durumu": "broken clouds"
+                },
+                "2025-03-03": {
+                    "Sıcaklık": "14°C",
+                    "Hava Durumu": "few clouds"
+                }
+            },
+            "Sorgu Saati": "13:51:23"
+        },
+        {
+            "Şehir": "Los Angeles",
+            "Ülke": "US",
+            "Para Birimi": "USD",
+            "Döviz Kuru (USD)": "1 USD = 1 USD",
+            "Tahminler": {
+                "2025-02-26": {
+                    "Sıcaklık": "18°C",
+                    "Hava Durumu": "overcast clouds"
+                },
+                "2025-02-27": {
+                    "Sıcaklık": "22°C",
+                    "Hava Durumu": "clear sky"
+                },
+                "2025-02-28": {
+                    "Sıcaklık": "20°C",
+                    "Hava Durumu": "overcast clouds"
+                },
+                "2025-03-01": {
+                    "Sıcaklık": "14°C",
+                    "Hava Durumu": "clear sky"
+                },
+                "2025-03-02": {
+                    "Sıcaklık": "14°C",
+                    "Hava Durumu": "few clouds"
+                },
+                "2025-03-03": {
+                    "Sıcaklık": "14°C",
+                    "Hava Durumu": "few clouds"
+                }
+            },
+            "Sorgu Saati": "13:55:19"
+        }
+    ]
+}
